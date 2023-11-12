@@ -9,6 +9,9 @@ const test = () => {
       <div>
         testing only
       </div>
+      <div>
+        testing only day 2
+      </div>
     </div>
   )
 }
