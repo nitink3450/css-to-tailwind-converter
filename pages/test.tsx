@@ -19,6 +19,9 @@ const test = () => {
       <div>
         tetsing day 5th
       </div>
+      <div>
+        tetsinng day 6th
+      </div>
     </div>
   )
 }
